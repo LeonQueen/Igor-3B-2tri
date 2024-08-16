@@ -79,8 +79,8 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Obrigado por responder";
-    caixaAlternativas.textContent = "";
+    caixaPerguntas.textContent = "";
+    caixaAlternativas.textContent = "Em guerras, as infraestruturas essenciais, como fazendas, armazéns e redes de distribuição de alimentos, são frequentemente destruídas ou danificadas,dificultando o acesso da população a alimentos e provocando fome. Embora bloqueios internacionais possam afetar a disponibilidade de alimentos, a fome em contextos de guerra é frequentemente causada por danosdiretos à infraestrutura local e não apenas por bloqueios internacionais. A fome prolongada durante um conflito pode levar a uma alta taxa de mortalidade infantil e a uma deterioração geral da saúde, devido à desnutrição e à maior vulnerabilidade a doenças. Enquanto mercados paralelos podem surgir, a fome não é uma causade oportunidades econômicas positivas; pelo contrário, ela geralmente resulta em graves problemas de saúde e sociais. A ajuda humanitária é crucial para aliviar a fome durante conflitos,fornecendo alimentos, medicamentos e apoio para a reconstrução dasinfraestruturas danificadas. Embora sanções possam ser uma ferramenta política, elas geralmente agravam a situação humanitária e não ajudam a mitigar diretamente a fome emregiões afetadas por conflitos.";
 }
 
 mostraPergunta();
